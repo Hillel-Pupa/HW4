@@ -1,0 +1,36 @@
+blockquote{
+    color: green;
+}
+.list li>a[title="youtube"],[title="link"]{
+    color: red;
+}
+.list li>ul>li>a[title="youtube"]{
+    color: orange;
+}
+ul+p{
+    font-size: 26px;
+}
+a[title]{
+    border: 1px solid #067b09;
+}
+h3{
+    color: pink;
+}
+div + h3{
+    color:black;
+}
+#greycol{
+    color: grey;
+}
+.text-box div>p{
+    color: red;
+}
+h3[title="text"]{
+    color: blue;
+}
+h3[title="text"]+p{
+    color: green;
+}
+.yellow{
+    color: yellow;
+}
