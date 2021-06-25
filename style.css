@@ -1,36 +1,36 @@
-blockquote{
+blockquote {
     color: green;
 }
-.list li>a[title="youtube"],[title="link"]{
+.list li>a[title="youtube"],[title="link"] {
     color: red;
 }
-.list li>ul>li>a[title="youtube"]{
+.list li>ul>li>a[title="youtube"] {
     color: orange;
 }
-ul+p{
+ul + p {
     font-size: 26px;
 }
-a[title]{
+a[title] {
     border: 1px solid #067b09;
 }
-h3{
+h3 {
     color: pink;
 }
-div + h3{
+div + h3 {
     color:initial;
 }
-#greycol{
+#greycol {
     color: grey;
 }
-.text-box div>p{
+.text-box div>p {
     color: red;
 }
-h3[title="text"]{
+h3[title="text"] {
     color: blue;
 }
-h3[title="text"]+p{
+h3[title="text"] + p {
     color: green;
 }
-.yellow{
+.yellow {
     color: yellow;
 }
