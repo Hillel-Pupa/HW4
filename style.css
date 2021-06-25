@@ -17,7 +17,7 @@ h3{
     color: pink;
 }
 div + h3{
-    color:black;
+    color:initial;
 }
 #greycol{
     color: grey;
